@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi_VN\n"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:53
+msgid "Add an image by entering its images address in the input below"
+msgstr "Thêm hình ảnh bằng cách nhập địa chỉ hình ảnh vào ô bên dưới"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:52
+msgid "Add image"
+msgstr "Thêm hình ảnh"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:56
+msgid "Add image 1"
+msgstr "Thêm hình 1"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:71
+msgid "Add image 2"
+msgstr "Thêm hình 2"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:86
+msgid "Add image 3"
+msgstr "Thêm hình 3"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:101
+msgid "Add image 4"
+msgstr "Thêm hình 4"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:116
+msgid "Add image 5"
+msgstr "Thêm hình 5"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:47
+msgid "Border color"
+msgstr "Màu đường viền"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:38
+msgid "Border line"
+msgstr "Đường viền bao ngoài"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:39
+msgid "Border size"
+msgstr "Kích thước đường viền"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:18
+msgid "Border styles"
+msgstr "Kiểu đường viền"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:19
+msgid "Border styles Round or Square"
+msgstr "Kiểu đường viền tròn hoặc vuông"
+
+#. Text in function
+#: Slide-img/inc/slideimg-admin-page.php:1
+msgid "Import image address"
+msgstr "Nhập địa chỉ hình ảnh"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:62
+#: Slide-img/inc/slideimg-admin-page.php:77
+#: Slide-img/inc/slideimg-admin-page.php:92
+#: Slide-img/inc/slideimg-admin-page.php:107
+#: Slide-img/inc/slideimg-admin-page.php:122
+msgid "Import text display"
+msgstr "Nhập văn bản hiển thị"
+
+#. Text in function
+#: Slide-img/inc/slideimg-admin-page.php:1
+msgid "Open new page"
+msgstr "Mở trang mới"
+
+#. Text in function
+#: Slide-img/inc/slideimg-admin-page.php:12
+msgid "SLIDE IMG SETTINGS"
+msgstr "CÀI ĐẶT SLIDE IMG"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:139
+msgid "Save settings"
+msgstr "Lưu cài đặt"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:15
+msgid "Set up the options below"
+msgstr "Thiết lập các tùy chọn bên dưới"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:131
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:135
+msgid "Shortcode at PHP"
+msgstr "Shortcode ở PHP"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:133
+msgid "Shortcode at content"
+msgstr "Shortcode ở nội dung"
+
+#. Text in function
+#: Slide-img/inc/slideimg-admin-page.php:1
+msgid "Show text on the image"
+msgstr "Hiển thị văn bản trên hình ảnh"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:28
+msgid "Text size"
+msgstr "Kích thước văn bản"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:141
+msgid "Thank you for using our plugin"
+msgstr "Cảm ơn bạn đã sử dụng plugin của chúng tôi"
+
+#. Text in function
+#: Slide-img/inc/slideimg-admin-page.php:1
+msgid "The link moves away after clicking the image"
+msgstr "Liên kết chuyển đi sau khi nhấp vào hình ảnh"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:29
+msgid "The text size displayed on the image"
+msgstr "Kích thước văn bản hiển thị trên hình ảnh"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:132
+msgid "Use Shortcodes to display a photo slide show in the location you want"
+msgstr "Sử dụng Shortcode để hiển thị slide ảnh ở vị trí bạn muốn"
+
+#. Text in echo
+#: Slide-img/inc/slideimg-admin-page.php:141
+msgid "by"
+msgstr "bởi"
